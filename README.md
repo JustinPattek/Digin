@@ -6,14 +6,14 @@ A competitive card game for you and your friends!
 There are 8 characters:
 </h2>
 <ul>
-<li><h5>Billy</h5> the Lumberjack
-<li><h5>Sandy</h5> the Vampire
-<li><h5>Joe</h5> the Normal guy
-<li><h5>A1</h5> the steak sauce Robot
-<li><h5>Lily</h5> the sneaky Thief
-<li><h5>Steve</h5> the gambling Jester
-<li><h5>Amy</h5> the gold-digger 
-<li><h5>Greg</h5> the scariest Ghost
+<li><bold>Billy</bold> the Lumberjack
+<li><bold>Sandy</bold> the Vampire
+<li><bold>Joe</bold> the Normal guy
+<li><bold>A1</bold> the steak sauce Robot
+<li><bold>Lily</bold> the sneaky Thief
+<li><bold>Steve</bold> the gambling Jester
+<li><bold>Amy</bold> the gold-digger 
+<li><bold>Greg</bold> the scariest Ghost
 </ul>
 
 
@@ -21,14 +21,14 @@ There are 8 characters:
 They each have 1 unique ability:
 </h2>
 <ul>
-<li>Billy can equip two things
-<li>Sandy can take a card from the graveyard
-<li>Joe can shuffle the map (maybe fill holes)
-<li>A1 can use a players equipment on them.
-<li>Lily can steal any non-coin card from a players hand
-<li>Steve can switch hands with a player
-<li>Amy can steal any coin from a players hand
-<li>Greg can teleport to any place on the map
+<li><bold>Billy</bold> can equip two things
+<li><bold>Sandy</bold> can take a card from the graveyard
+<li><bold>Joe</bold> can shuffle the map (maybe fill holes)
+<li><bold>A1</bold> can use a players equipment on them.
+<li><bold>Lily</bold> can steal any non-coin card from a players hand
+<li><bold>Steve</bold> can switch hands with a player
+<li><bold>Amy</bold> can steal any coin from a players hand
+<li><bold>Greg</bold> can teleport to any place on the map
 </ul>
 Abilities must be unlocked by using an ability card from your hand.
 (ability cards work like a stack in magic "FIFO")
@@ -44,23 +44,23 @@ Everyone has a hand of cards and there is a field of cards called the Map.
 The Set Up:
 </h2>
 To start the game, you take a bunch of cards that you like and shuffle them in a pile. 
-<p>This will be the Map.
-<p>Each player begins the game with their character card on the field in a fair space in front of them. 
-<p>Each player also begins with their hand consisting of 1 bomb card, and 3 coins and 1 rock.
-<p>Each player rolls to see who goes first and the turn order is set from there.
+<br>This will be the Map.
+<br>Each player begins the game with their character card on the field in a fair space in front of them. 
+<br>Each player also begins with their hand consisting of 1 bomb card, and 3 coins and 1 rock.
+<br>Each player rolls to see who goes first and the turn order is set from there.
 
 <h3>
 A typical turn consists of
 </h3>
 <ul>
 <li>If you have any cards you would like to equip to your character, you may do so.
-<p>Only 1 equipment at a time. You can also unequip stuff during this phase.
-<p>(When you do you take the card that was on your character already, if there was one, and put it in your hand)
+<br>Only 1 equipment at a time. You can also unequip stuff during this phase.
+<br>(When you do you take the card that was on your character already, if there was one, and put it in your hand)
 <li>You roll the die.
-<p>(If a character has whiskey, he/she moves now and can look at the card they land on)
+<br>(If a character has whiskey, he/she moves now and can look at the card they land on)
 <li>You move your character card the appropriate amount of spaces in any direction (north, south, east or west) except diagonally. 
 <li>You can then look at the Map card that you land on, do what it says (the pick-up effect) and take the card and swap it with one in your hand 
-<p>(including that card)
+<br>(including that card)
 <li>You don't have to look at the card you land on.
 <li>If you land on a space where someone already occupies you can use your Offensive equipment card on them.
 </ul>
@@ -92,59 +92,59 @@ The Cards:
 </h2>
 <ul>
 <li>woman's purse - show your hand to someone,
-<p>equip: look at players hand and take 1 coin
+<br>equip: look at players hand and take 1 coin
 
 
 <li>bomb - discard a card and don't put a card back in the map,
-<p>equip: make player discard a card, then discard the bomb (on opp's turn only)
+<br>equip: make player discard a card, then discard the bomb (on opp's turn only)
 
 <li>sword - do nothing,
-<p>equip: make them opponent discard equipment card
+<br>equip: make them opponent discard equipment card
 
 <li>Magic Frog - if you have the flag, you have to swap it for this
-<p>(if you have an ability card you must put it down and change the frog to a show card)
-<p>equip: look at players hand and make them use the pickup (maybe any ability) ability of one of their cards
+<br>(if you have an ability card you must put it down and change the frog to a show card)
+<br>equip: look at players hand and make them use the pickup (maybe any ability) ability of one of their cards
 
 <li>dirt pile - do nothing,
-<p>equip: do nothing.
+<br>equip: do nothing.
 
 <li>rock - you trip and discard your equipment
-<p>equip: do nothing
+<br>equip: do nothing
 
 <li>ability - Use once by discarding 
-<p>(get a dirt pile in it's place)
+<br>(get a dirt pile in it's place)
 
 <li>runnin' boots - do nothing,
-<p>equip: take 2 turns if you land on a player
-<p>(can be used for an infinite combo)
+<br>equip: take 2 turns if you land on a player
+<br>(can be used for an infinite combo)
 
 <li>gum - dont move next turn,
-<p>equip: opponent doesnt move next turn
-<p>(idk if i like this)
+<br>equip: opponent doesnt move next turn
+<br>(idk if i like this)
 
 <li>shovel - too good?
-<p>HAVE TO SHOW THE CARD YOU GET
+<br>HAVE TO SHOW THE CARD YOU GET
 
 <li>gold doubloons - points?
-<p>TWO TYPES - 1's and 3's (START OUT WITH 3: 1's)
+<br>TWO TYPES - 1's and 3's (START OUT WITH 3: 1's)
 
 <li>a shop item (equip to set up a shop)
-<p>(the challenge is how to make people not attack you and shop instead but not make it too OP) 
-<p>PUT SHOP BACK FACE-UP AND WHEN PEOPLE LAND ON IT THEY "SHOP" WITH YOU
+<br>(the challenge is how to make people not attack you and shop instead but not make it too OP) 
+<br>PUT SHOP BACK FACE-UP AND WHEN PEOPLE LAND ON IT THEY "SHOP" WITH YOU
 
 <li>whiskey - carry it around to move on other peoples turns
 
 <li>dark shovel - take from graveyard
-<p>(set back is you have to discard all non-coins)
+<br>(set back is you have to discard all non-coins)
 
 <li>some sort of detective item that lets you look at the cards before you pick them up at no cost?
 
 <li>a wallet (or treasure chest)
-<p>get a coin from the graveyard when you pick it up
-<p>equip: give a coin to player
+<br>get a coin from the graveyard when you pick it up
+<br>equip: give a coin to player
 
 <li>3 valuable artifacts
-<p>equip effects:
+<br>equip effects:
 <ul>
 <li>take a card from a player's hand
 
@@ -157,7 +157,7 @@ The Cards:
 Tester
 </h2>
 (written in Python)
-<h3><p>
+<h3><br>
 includes:
 </h3>
 <ul>
@@ -165,7 +165,7 @@ includes:
 <li>the cards and a way to add new cards
 <li>match stats ( turns it took, a log of each turn)
 </ul>
-<h3><p>
+<h3><br>
 Classes:
 </h3>
 <ul>
