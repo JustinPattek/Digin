@@ -6,14 +6,14 @@ A competitive card game for you and your friends!
 There are 8 characters:
 </h2>
 <ul>
-<li>Billy the Lumberjack
-<li>Sandy the Vampire
-<li>Joe the Normal guy
-<li>A1 the steak sauce Robot
-<li>Lily the sneaky Thief
-<li>Steve the gambling Jester
-<li>Amy the gold-digger 
-<li>Greg the scariest Ghost
+<li><h5>Billy</h5> the Lumberjack
+<li><h5>Sandy</h5> the Vampire
+<li><h5>Joe</h5> the Normal guy
+<li><h5>A1</h5> the steak sauce Robot
+<li><h5>Lily</h5> the sneaky Thief
+<li><h5>Steve</h5> the gambling Jester
+<li><h5>Amy</h5> the gold-digger 
+<li><h5>Greg</h5> the scariest Ghost
 </ul>
 
 
@@ -45,23 +45,25 @@ The Set Up:
 </h2>
 To start the game, you take a bunch of cards that you like and shuffle them in a pile. 
 <p>This will be the Map.
-<p>Each player begins the game with their character card on the field in a fair space in front of them. Each player also begins with their hand consisting of 1 bomb card, and 3 coins and 1 rock.
+<p>Each player begins the game with their character card on the field in a fair space in front of them. 
+<p>Each player also begins with their hand consisting of 1 bomb card, and 3 coins and 1 rock.
 <p>Each player rolls to see who goes first and the turn order is set from there.
 
 <h3>
 A typical turn consists of
 </h3>
-If you have any cards you would like to equip to your character , you may do so.
-Only 1 equipment at a time. You can also unequip stuff during this phase.
-(When you do you take the card that was on your character already, if there was one, and put it in your hand)
-You roll the die.
-(If a character has whiskey, he/she moves now and can look at the card they land on)
-You move your character card the appropriate amount of spaces in any direction (north, south, east or west) except diagonally. 
-You can then look at the Map card that you land on, do what it says (the pick-up effect) and take the card and swap it with one in your hand (including that card)
-You don't have to look at the card you land on.
-If you land on a space where someone already occupies:
-you "use" your equipment card on them.
-
+<ul>
+<li>If you have any cards you would like to equip to your character, you may do so.
+<p>Only 1 equipment at a time. You can also unequip stuff during this phase.
+<p>(When you do you take the card that was on your character already, if there was one, and put it in your hand)
+<li>You roll the die.
+<p>(If a character has whiskey, he/she moves now and can look at the card they land on)
+<li>You move your character card the appropriate amount of spaces in any direction (north, south, east or west) except diagonally. 
+<li>You can then look at the Map card that you land on, do what it says (the pick-up effect) and take the card and swap it with one in your hand 
+<p>(including that card)
+<li>You don't have to look at the card you land on.
+<li>If you land on a space where someone already occupies you can use your Offensive equipment card on them.
+</ul>
 <h2>
 Card Types:
 </h2>
@@ -88,79 +90,75 @@ Supplies Card Types:
 <h2>
 The Cards:
 </h2>
-
-woman's purse - show your hand to someone,
-equip: look at players hand and take 1 coin
-
-
-bomb - discard a card and don't put a card back in the map,
-equip: make player discard a card, then discard the bomb (on opp's turn only)
-
-sword - do nothing,
-equip: make them opponent discard equipment card
-
-Magic Frog - if you have the flag, you have to swap it for this
-(if you have an ability card you must put it down and change the frog to a show card)
-equip: look at players hand and make them use the pickup (maybe any ability) ability of one of their cards
-
-dirt pile - do nothing,
-equip: do nothing.
-
-rock - you trip and discard your equipment
-equip: do nothing
-
-ability - Use once by discarding 
-(get a dirt pile in it's place)
-
-flag - discard this card to end the game
-
-runnin' boots - do nothing,
-equip: take 2 turns if you land on a player
-(can be used for an infinite combo)
-
-gum - dont move next turn,
-equip: opponent doesnt move next turn
-(idk if i like this)
-
-maybe a slippery item?
-(maybe not)
+<ul>
+<li>woman's purse - show your hand to someone,
+<p>equip: look at players hand and take 1 coin
 
 
-shovel - too good?
-HAVE TO SHOW THE CARD YOU GET
+<li>bomb - discard a card and don't put a card back in the map,
+<p>equip: make player discard a card, then discard the bomb (on opp's turn only)
 
-gold doubloons - points?
-TWO TYPES - 1's and 3's (START OUT WITH 3: 1's)
+<li>sword - do nothing,
+<p>equip: make them opponent discard equipment card
 
-a shop item (equip to set up a shop)
-(the challenge is how to make people not attack you and shop instead but not make it too OP) PUT SHOP BACK FACE-UP AND WHEN PEOPLE LAND ON IT THEY "SHOP" WITH YOU
+<li>Magic Frog - if you have the flag, you have to swap it for this
+<p>(if you have an ability card you must put it down and change the frog to a show card)
+<p>equip: look at players hand and make them use the pickup (maybe any ability) ability of one of their cards
 
-whiskey - carry it around to move on other peoples turns
+<li>dirt pile - do nothing,
+<p>equip: do nothing.
 
-dark shovel - take from graveyard
-(set back is you have to discard all non-coins)
+<li>rock - you trip and discard your equipment
+<p>equip: do nothing
 
-some sort of detective item that lets you look at the cards before you pick them up at no cost?
+<li>ability - Use once by discarding 
+<p>(get a dirt pile in it's place)
 
-a wallet (or treasure chest)
-get a coin from the graveyard when you pick it up
-equip: give a coin to player
+<li>runnin' boots - do nothing,
+<p>equip: take 2 turns if you land on a player
+<p>(can be used for an infinite combo)
 
-3 valuable artifacts
-equip effects:
+<li>gum - dont move next turn,
+<p>equip: opponent doesnt move next turn
+<p>(idk if i like this)
 
-take a card from a player's hand
+<li>shovel - too good?
+<p>HAVE TO SHOW THE CARD YOU GET
 
-use your ability
+<li>gold doubloons - points?
+<p>TWO TYPES - 1's and 3's (START OUT WITH 3: 1's)
 
-take a players turn (too powerful)
+<li>a shop item (equip to set up a shop)
+<p>(the challenge is how to make people not attack you and shop instead but not make it too OP) 
+<p>PUT SHOP BACK FACE-UP AND WHEN PEOPLE LAND ON IT THEY "SHOP" WITH YOU
 
+<li>whiskey - carry it around to move on other peoples turns
+
+<li>dark shovel - take from graveyard
+<p>(set back is you have to discard all non-coins)
+
+<li>some sort of detective item that lets you look at the cards before you pick them up at no cost?
+
+<li>a wallet (or treasure chest)
+<p>get a coin from the graveyard when you pick it up
+<p>equip: give a coin to player
+
+<li>3 valuable artifacts
+<p>equip effects:
+<ul>
+<li>take a card from a player's hand
+
+<li>use your ability
+
+<li>take a players turn (too powerful)
+</ul>
+</ul>
 <h2>
 Tester
 </h2>
-(write in python)
+(written in Python)
 <h3><p>
-must include:
+includes:
 </h3>
 <ul>
 <li>computers that play through the game (easy, med, hard)
@@ -245,4 +243,13 @@ April 26, 2013
 <li>thinking about expansion packs (booster packs with extra cards that you can add to your Map and games)
 <li>thinking about new characters (possibly a man with his dog, the ability can be a 2nd character to move around!!!!)
 <li>thinking about pets/ instruments
+</ul>
+<h3>
+April 27, 2013
+</h3>
+<ul>
+<li>Added Names for the different Card Types (offensive, defensive, support)
+<li>Equip cards are now called: Supplies cards
+<li>Changed coins to gold (Still not sure if I want to keep the coin values 1 and 3 or 1 and 2)
+<li>Thinking about some sort of card that you get to replace an ability card besides dirt?
 </ul>
