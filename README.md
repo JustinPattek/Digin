@@ -64,6 +64,18 @@ A typical turn consists of
 <li>You don't have to look at the card you land on.
 <li>If you land on a space where someone already occupies you can use your Offensive equipment card on them.
 </ul>
+
+<h3>
+A card consists of
+</h3>
+<ul>
+<li>The type of card it is
+<li>A picture of whatever it is
+<li>The Cards Pick-Up effect
+<li>The Cards Equip effect
+<li>A quote/flavor text
+</ul>
+
 <h2>
 Card Types:
 </h2>
@@ -157,15 +169,15 @@ The Cards:
 Tester
 </h2>
 (written in Python)
-<h3><br>
-includes:
+<h3>
+Includes:
 </h3>
 <ul>
 <li>computers that play through the game (easy, med, hard)
 <li>the cards and a way to add new cards
 <li>match stats ( turns it took, a log of each turn)
 </ul>
-<h3><br>
+<h3>
 Classes:
 </h3>
 <ul>
