@@ -62,7 +62,7 @@ A typical turn consists of
 <li>You can then look at the Map card that you land on, do what it says (the pick-up effect) and take the card and swap it with one in your hand 
 <br>(including that card)
 <li>You don't have to look at the card you land on.
-<li>If you land on a space where someone already occupies you can use your Offensive equipment card on them.
+<li>If you land on a space where someone already occupies you can use your Offensive equipment card on them. (If more than one person occupies a space the Offensive Equipment activates on everyone on that space.)
 </ul>
 
 <h3>
@@ -82,10 +82,10 @@ Card Types:
 
 <h3>Gold Cards</h3> - Gold cards are the basic monetary points in the game and can be equipped. (They do nothing when equipped)
 
-<h3>Supplies Cards</h3> - Supplies cards are any card that aren't a coin or artifact. 
+<h3>Supplies Cards</h3> - Supplies cards are any card that aren't gold or artifact. (They have no point values) 
 There is 3 types: Offensive, Defensive, and Support.
 
-<h3>Artifact Cards</h3> - Artifact cards count as both a coin and a supply card.
+<h3>Artifact Cards</h3> - Artifact cards count as both a gold and a supply card.
 
 
 <h2>
@@ -155,6 +155,10 @@ The Cards:
 <br>get a coin from the graveyard when you pick it up
 <br>equip: give a coin to player
 
+<li>a boat
+<br>equip: get over empty spaces(water)
+<br>(maybe when you pick it up yu don't put anything down)
+
 <li>3 valuable artifacts
 <br>equip effects:
 <ul>
@@ -198,70 +202,99 @@ ISSUES / FIXES:
 April 19, 2013
 </h3>
 <ul>
-<li>shovel OP
-<li>bombs too good if they last forever
-<li>too difficult
+<li>Notice: shovel OP
+<li>Notice: bombs too good if they last forever
+<li>Notice: Game too difficult
 </ul>
 <h3>
 April 20, 2013
 </h3>
 <ul>
-<li>shovel fixed
-<li>bombs better if they go off and you discard (and destroy the land) and then if you equip they are used as defense
-<li>bombs can't kill someone (if you have one card and you land on a bomb you discard a card and then pick up the bomb...NEEDS FIXING)
+<li>Update: shovel fixed
+<li>Update: bombs better if they go off and you discard (and destroy the land) and then if you equip they are used as defense
+<li>Notice: bombs can't kill someone (if you have one card and you land on a bomb you discard a card and then pick up the bomb...NEEDS FIXING)
 
-<li>Should ability cards give you dirt piles when you use them?
+<li>Notice: Should ability cards give you dirt piles when you use them?
 
-<li>discarding the flag is too difficult
+<li>Notice: discarding the flag is too difficult
 (catapult helps? not sure)
 (perhaps the flag goes back face-up)
-<li>It felt weird changing focus from collecting gold to trying to figure out how to discard the flag
+<li>Notice: It felt weird changing focus from collecting gold to trying to figure out how to discard the flag
 (maybe multiple flags?)
 
-<li>changed running boots (maybe too good now? we'll see)
-<li>detective item idea
-<li>discard from the map idea
-<li>give a card to a player idea
+<li>Update: changed running boots (maybe too good now? we'll see)
+<li>Update: detective item idea
+<li>Update: discard from the map idea
+<li>Update: give a card to a player idea
 </ul>
 <h3>
 April 23, 2013
 </h3>
 <ul>
-<li>maybe change the coins to artifacts and they are archeologists digging for the pieces and when you get all of them its like super powerful?
+<li>Notice: maybe change the coins to artifacts and they are archeologists digging for the pieces and when you get all of them its like super powerful?
 (it's time to introduce some back-story to the game)
-<li>seriously considering getting rid of the flag
-<li>instruments?
+<li>Notice: seriously considering getting rid of the flag
+<li>Notice: instruments?
 </ul>
 <h3>
 April 24, 2013
 </h3>
 <ul>
-<li>ability cards need to be "exiled" otherwise Sandy infinite dirt combo happens.
-<li>Amy's ability needs to be only the hand
-<li>change shop to trading post and you can exchange goods in team play
+<li>Update: ability cards need to be "exiled" otherwise Sandy infinite dirt combo happens.
+<li>Update: Amy's ability needs to be only the hand
+<li>Update: change shop to trading post and you can exchange goods in team play
 (maybe add random cards to sell)
-<li>woman's purse only takes a coin from hand
-<li>bomb blows up hand or equip (you don't choose though)
-<li>maybe the game can come with a grid - pad to draw out the map (so you can learn the lay of the land)
+<li>Update: woman's purse only takes a coin from hand
+<li>Update: bomb blows up hand or equip (you don't choose though)
+<li>Notice: maybe the game can come with a grid - pad to draw out the map (so you can learn the lay of the land)
 (it would make joe better)
-<li>equip card face-up in front of you (instead of under character card)
+<li>Notice: equip card face-up in front of you (instead of under character card)
 </ul>
 <h3>
 April 26, 2013
 </h3>
 <ul>
-<li>Ability cards only exiled when used.
-<li>thinking about fixing catapult and shop and shovel.
-<li>thinking about expansion packs (booster packs with extra cards that you can add to your Map and games)
-<li>thinking about new characters (possibly a man with his dog, the ability can be a 2nd character to move around!!!!)
-<li>thinking about pets/ instruments
+<li>Update: Ability cards only exiled when used.
+<li>Notice: thinking about fixing catapult and shop and shovel.
+<li>Notice: thinking about expansion packs (booster packs with extra cards that you can add to your Map and games)
+<li>Notice: thinking about new characters (possibly a man with his dog, the ability can be a 2nd character to move around!!!!)
+<li>Notice: thinking about pets/ instruments
 </ul>
 <h3>
 April 27, 2013
 </h3>
 <ul>
-<li>Added Names for the different Card Types (offensive, defensive, support)
-<li>Equip cards are now called: Supplies cards
-<li>Changed coins to gold (Still not sure if I want to keep the coin values 1 and 3 or 1 and 2)
-<li>Thinking about some sort of card that you get to replace an ability card besides dirt?
+<li>Update: Added Names for the different Card Types (offensive, defensive, support)
+<li>Update: Equip cards are now called: Supplies cards
+<li>Update: Changed coins to gold (Still not sure if I want to keep the coin values 1 and 3 or 1 and 2)
+<li>Notice: Thinking about some sort of card that you get to replace an ability card besides dirt?
+<li>Notice: change dark shovel to grave shovel?
+<li>Update: The old man and his dog:
+<br>Use your ability and the dog comes out
+<br>The dog has the same equipment that you have
+<br>If the dog lands on someone the equipment activates
+<br>(if someone lands on the dog, it dies?)
+<br>Either you move the dog on your turn or you move it on the turn after you or the turn you summon it.
+<li>Update: Turbo Shovel: if you pick-up a dirt pile, you roll again.
 </ul>
+<h3>
+April 29, 2013
+</h3>
+<ul>
+<li>Update: Finished the basics for the Digin Editor
+<li>Update: Added working matrix to be used as the map
+<li>Notice: The set amount of turns feels pointless in 1v1
+<li>Notice: Change dark shovel to (grave, bone, evil)
+<li>Notice: Perhaps add another use for money? (buying something)
+<li>Notice: Make shovel more appealing
+</ul>
+<h3>
+May 2nd, 2013
+</h3>
+<ul>
+<li>Notice: Add a Facebook page
+<li>Notice: Fix "Pure Evil" to make it less powerful
+<li>Update: Issues/Fixes section with Tags
+<li>Update: Uploaded code for Digin Editor to Github
+</ul>
+
