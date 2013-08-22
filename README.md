@@ -1,4 +1,5 @@
-<h1>Digin (Working Title) (also: Shovel Party)</h1>
+<h1>Digin</h1>
+V.1.9
 <h3>
 A competitive card game for you and your friends!
 </h3>
@@ -338,8 +339,41 @@ May 13th, 2013
 <li>Medusa's ass cheeks: Choose a random card from the closest player's hand and replace it for dirt. "This part of the myth, I don't remember."
 <li>Tino Sniper: If you are playing Never have I ever, one person puts a finger down. 'Niper Spree'
 <li> Treasure Chest: "Shutup and take my money!"
-<li>Bomb's get prioriety over other non-ability cards, except sword.
-<li>Sword gets prioriety over every defensive equip.
+<li>Bomb's get priority over other non-ability cards, except sword.
+<li>Sword gets priority over every defensive equip.
+</ul>
+<h3>
+August 21, 2013
+</h3>
+<ul>
+<li>"Dig" Cards will be added (in preparation for the Digin 2.0 update)
+<li>Removing the 20 turn game limit
+<li>The game now ends when all "Dig" cards have been drawn.
+<li>"Dig" cards will either be drawn during a players turn, instead of taking their turn, or purchased for a coin price.
+<li>Characters now each have a "bounty" depending on how impressive their ability is. 
+<br>When you kill this character you get their character card, which now counts as a coin card with a value equal to the bounty value.
+<li>Possible theme: A post apocalyptic world, where the characters want to find refuge and are promised riches underground.
+<br>(Or maybe something to do with maps, if we change the "Dig" cards to Map cards)
+<li>Coin values will have to be altered to reflect these changes.
+<li>Character cards will have to be altered to reflect these changes.
+<li>Supplies cards will have to be altered to reflect these changes.
+<li>Card priority needs to be set
+<li>Ability cards need to be re-thought.
+<li>Perhaps we get rid of Fool's gold?
+<li>Are artifacts necessary?
+<li>Card "visibility" should be altered/re-thought. 
+<br>(Which cards have eye-balls?, Should all cards be required to be shown?)
+</ul>
+<h3>
+August 22, 2013
+</h3>
+<ul>
+<li>New Character: Assassin
+<br>Ability: When you use your ability card, you get a knife equipment (If you currently have an equipment, it gets unequipped to your hand).
+<li>Knife:
+<br>Equip effects: If you land on a player, throw 2 of their cards into the graveyard.
+<br>(The knife can only be equipped by the Assassin or the Shapeshifter when he acts as the Assassin)
+<li>(The Knife can't be unequipped by the holder, possibly?)
 </ul>
 
 
