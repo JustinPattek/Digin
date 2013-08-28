@@ -2,7 +2,8 @@
 IDEAS
 </h1>
 <h3>
-This is the page where all the new ideas go before they are added to the game. If you have an idea add it to the list for further discussion.
+This is the page where all the new ideas go before they are added to the game. 
+<br>If you have an idea add it to the list for further discussion.
 
 If your idea is card specific stick to this suggested format: 
 </h3>
