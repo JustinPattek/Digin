@@ -1,12 +1,12 @@
 <h1>
 IDEAS
 </h1>
-<h2>
+<h3>
 This is the page where all the new ideas go before they are added to the game. If you have an idea add it to the list for further discussion.
 
 If your idea is card specific stick to this suggested format: 
-</h2>
-<h3>
+</h3>
+
 <font color="red">
 <ul>
 <li><h3>Today's Date (in bold)</h3>
@@ -16,7 +16,7 @@ If your idea is card specific stick to this suggested format:
 <br>Card Second Ability (If applicable)
 </ul>
 </font>
-</h3>
+
 
 If you are unsure of one of the fields, just put N/A.
 Otherwise, just add it to the list.
