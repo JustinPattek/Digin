@@ -1,7 +1,7 @@
 <h1>Digin</h1>
 <h3>
 A really fun, slightly competitive card game for you and your friends!</h3>
-<br><h4>Seriously, who doesn't love digging and killing?
+<h4>Seriously, who doesn't love digging and killing?
 </h4>
 
 <h2>
