@@ -1,0 +1,8 @@
+August 29, 2013
+Card name: Reflector
+Card type: defense	
+Card pick up ability: not sure
+Card equip ability: redirects ranged attacks to closest person to you 
+(except the original attacker)
+
+This card needs heavy re-thinking

@@ -1,0 +1,7 @@
+Card name: Plunger
+Card type: Offensive
+Card pick up ability: None
+Card equip ability:
+Steal an opponents equipment
+Card worth: 0
+Card flavor text: TBD
