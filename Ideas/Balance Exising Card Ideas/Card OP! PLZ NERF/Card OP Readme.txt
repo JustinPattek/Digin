@@ -1,6 +1,6 @@
 This is the folder that you should post ideas about cards that seem over powered. 
-<br>Not that this folder should not contain balancing ideas 
-<br>about character cards (that's what the character op folder is for). 
+Not that this folder should not contain balancing ideas 
+about character cards (that's what the character op folder is for). 
 
 Filename: Name of that dirty, mean op card
 
