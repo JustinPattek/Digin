@@ -184,3 +184,12 @@ August 28, 2013
 <li>Issue: Dark shovel and frog need to be fixed.
 <li>Cards are considered "Underground" when they are face-down on the map.
 </ul>
+<h3>
+August 29, 2013
+</h3>
+<ul>
+<li>Fix: the ability artifact now prevents abilities from being used
+<br>rather than using your ability everytime you land on a player.
+<br>(This is because some characters don't benefit from using their abilities only on their turn)
+<li>Fix: Tino fixed up the Ideas section and added balancing section/ Map ideas
+</ul>

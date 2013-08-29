@@ -1,0 +1,167 @@
+Characters:
+A.1
+Steak sauce robot
+Counters other abilities
+Bounty: 4
+
+Amy
+Gold-digger
+Take a coin from a player (hand or equip)
+Bounty: 5
+
+Billy
+Lumberjack
+Equip 2 things (Whenever something happens to 1 equipment, it happens to all of his)
+Bounty: 3 (might change this)
+
+Dan
+Dwarf
+Pick up the map card you are standing on without putting any card down in it's place. (No Pick-up effects occur)
+Bounty: 4
+
+Greg
+Ghost
+Teleport to anywhere on the map (Except holes)
+Bounty: 3
+
+Joe
+Normal Guy
+Shuffle the Map (Place all character cards wherever you want, not sure if equipments activate or not yet)
+Bounty: 3
+
+Kirk
+Shape-shifter
+Copy the ability of one player's character before the game starts
+Bounty: The copied characters bounty
+
+Lily
+Thief
+Take a supply card from a player (hand or equip)
+Bounty: 5
+
+Gramps
+Old Man
+Summon a dog (the dog has the same equip as you, moves on it's own and goes away when someone steps on it (after equipment activates though).)
+Bounty: 6
+
+Sandy
+Vampire
+Take a card from the graveyard.
+Bounty: 5
+
+
+Steve
+Gambler
+Flip a coin: Heads, switch hands with a player of your choice. Tails, throw a card in the grave.
+Bounty: 6
+
+Paul
+Magician
+Take an equip card from another player.
+Bounty: TBD
+
+TBD
+Assassin
+When you use your ability card, you get a knife equipment with the effect: land on a player and discard two of their cards.
+Bounty: 6
+
+TBD
+Ventriloquist
+Control a players movement step
+Bounty: TBD
+
+Gold:
+
+Gold Coin
+Value 1
+
+
+Gold Bar
+Value 3
+
+Supplies:
+
+Offensive:
+
+Sword
+Pick-up: do nothing
+Equip: opponent discards equipment
+
+Hand Grenade
+Pick-up: discard a card
+Equip: make a player discard a card
+
+Woman's Purse
+Pick-up: Show your hand to another player
+Equip: Look at a players hand and take a coin card from them
+
+Treasure Chest
+Pick-up: Take a coin from the graveyard and then put the treasure chest card in the graveyard.
+Equip: take a coin from the graveyard (possibly)
+
+Grave Shovel
+Pick-up: TBD
+Equip: Take a card from the top of the graveyard
+
+Defensive:
+
+
+Shield
+Pick-up: Do nothing
+Equip: Destroy opponents equipment
+
+Bomb
+Pick-up: Discard a card
+Equip: Make a player discard a card (one-time use?)
+
+Support:
+
+Whiskey
+Pick-up: discard a coin card (if you have one)
+Equip: Move on every players turn ( the same dice roll they roll and before that player)
+
+Rock
+Pick-up: discard your equipment
+Equip: Throw it at the nearest player to make them discard their equipment (one-time use) possibly?
+
+Shovel
+Pick-up: TBD
+Equip: Pick up cards without putting cards back down (Not sure when it breaks yet)
+
+Catapult
+Pick-up: Can't move next turn
+Equip: discard a card and use its equip ability on the closest opponent (can use multiple times in a turn)
+
+TBD
+Pick-up: Every player draws a card from the top of the graveyard!
+Equip: do nothing
+
+TBD
+Pick-up: TBD
+Equip: Becomes the same equipment another player on the map has
+
+TBD
+Pick-up: TBD
+Equip: Roll die and draw cards instead of moving
+
+Spy-glass (maybe some other name)
+Pick-up: do nothing
+Equip: pick-up abilities don't effect the holder
+
+Victory:
+
+Cost 3 gold
+
+Artifacts:
+
+See no evil (maybe we can change the name)
+Pick-up: do nothing
+Equip: take a card from the player's hand
+value: 1
+
+Speak no evil (maybe we can change the name)
+Pick-up: do nothing
+Equip: Nobody can use their abilities while this is equipped
+Value: 1 
+
+

@@ -1,0 +1,6 @@
+Turbo Shovel
+
+not sure about the pick-up ability
+
+equip ability: like a shovel, but if you pick up a coin and it doesn't break,
+you roll again

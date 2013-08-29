@@ -1,0 +1,13 @@
+SpeakNoEvil
+
+Card type: artifact
+
+Card ability: this card isn't good for characters who use abilities on other player's turns
+
+Reason it is OP: it's too good for some characters and can potentially break the game
+
+Suggested balancing act: Instead of using your ability whenever you land on someone it should
+be changed to a support type artifact that prevents all (including you) from using abilities while you
+have it equipped.
+
+Reason for suggested balancing: It makes more sense for the game
