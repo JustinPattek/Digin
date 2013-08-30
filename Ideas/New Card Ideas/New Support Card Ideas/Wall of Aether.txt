@@ -1,0 +1,12 @@
+Card name: Wall of Aether
+
+Name: Tino
+Date: 08/30/2013
+Card name: Wall of Aether
+Card type: support
+Card pick up ability: Reveal this card. You can't move the next turn
+Card equip ability: Instead of placing this card facedown on the map you map place it face up.
+While this card is faceup on the map it acts as a hole to every player but the one that put it
+down on the map faceup.
+Card worth: 0
+Card flavor text: You shall not pass
