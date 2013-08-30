@@ -107,4 +107,3 @@ I started this game project in my dorm room in Binghamton University.
 <br>I also wanted the game to be able to be played by as many people as possible.
 <br>The game started out as a small project and after tons of play-testing has grown a lot since then. 
 <br>I can't wait to see how it looks when it's finished!
-
