@@ -2,6 +2,8 @@ This is the folder for new offensive card ideas. Try to stick to this format:
 File name: Card name
 
 File Content:
+Name: your name
+Date: current date
 Card name: the card's name
 Card type: support, defense, offense, coin
 	-can have "special" super type (eg: special coin, offensive)

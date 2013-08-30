@@ -2,7 +2,9 @@ This is the folder where you should put ideas for new character cards. Try to st
 File name: name of character
 
 File content:
-Name: character's name
+Name: your name
+Date: current date
+Character Name: character's name
 Ability: character's ability
 Bounty: character's bounty
 Flavor text: description of the character
