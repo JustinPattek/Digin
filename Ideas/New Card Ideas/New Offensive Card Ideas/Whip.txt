@@ -5,7 +5,7 @@ Date: 08/30/2013
 Card name: Whip
 Card type: offense
 Card pick up ability: 
-	Pick up: Pick an opponent. Randomly choose a card from his/her hand and look at it.
+	Pick up: Pick an opponent. Randomly choose a card from your hand and show him/her.
 	Equip: Opponent discards a card. You may play the equip ability on any one opponent
 		in your character's vicinity (space you are on/1 space directly above, below,
 		or to the side of you. Spaces diagonal from your character is not in his/her 
