@@ -1,9 +1,9 @@
 Card name: Curse
 Card type: Offensive
-Card pick up ability: None
+Card pick up ability: Automatically equip this card to yourself.
 Card equip ability:
 You move half the spaces you would normally move (rounded up).
-If you land on a player you may equip curse to them.
-If another player equips curse to you discard 3 cards.
+If you land on a player you may equip Curse to them.
+Whenever Curse is equipped to a player, that player discard 3 cards.
 Card worth: 0
 Card flavor text: What a terrible night for a curse.
