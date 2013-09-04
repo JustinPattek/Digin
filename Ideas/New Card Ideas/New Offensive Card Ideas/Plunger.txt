@@ -2,6 +2,6 @@ Card name: Plunger
 Card type: Offensive
 Card pick up ability: None
 Card equip ability:
-Steal an opponents equipment
+Steal an opponents equipment. Plunger is returned to the user's hand.
 Card worth: 0
 Card flavor text: TBD
