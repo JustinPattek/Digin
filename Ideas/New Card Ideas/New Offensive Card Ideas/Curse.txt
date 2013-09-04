@@ -6,4 +6,4 @@ You move half the spaces you would normally move (rounded up).
 If you land on a player you may equip Curse to them.
 Whenever Curse is equipped to a player, that player discard 3 cards.
 Card worth: 0
-Card flavor text: What a terrible night for a curse.
+Card flavor text: What a terrible night to have a curse.
