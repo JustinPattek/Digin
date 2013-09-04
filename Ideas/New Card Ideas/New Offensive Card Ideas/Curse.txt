@@ -2,6 +2,7 @@ Card name: Curse
 Card type: Offensive
 Card pick up ability: Automatically equip this card to yourself.
 Card equip ability:
+Cannot be un-equipped manually.
 You move half the spaces you would normally move (rounded up).
 If you land on a player you may equip Curse to them.
 Whenever Curse is equipped to a player, that player discard 3 cards.
