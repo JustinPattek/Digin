@@ -66,6 +66,16 @@ Rules:
 Coming soon...
 
 <h2>
+Story:
+</h2>
+The city of Dumpopolis had a serious crime problem. From the copper-wire coast to the scrap-metal slums, there was hardly anyone that didn't  have some sort of bounty on their head. Theives, assassins, bullies, and the like plagued the streets and the city did not even have the funds it needed to support it's police force! Oh the humanity!
+<br>Well, it seems that some brainy government men have come up with a solution for Dumpopolis' problems. In the desert on the outskirts of the city, the remains of an ancient city have been discovered! The city of Salvagio - a land full of ancient treasure of immense power and incredible value that has been lost to time. With this new discovery, the government has begun putting posters all over the city: 
+<br>"HEY YOU! Are you wanted for crimes of a serious nature? Is the bounty on your head keeping you from enjoying the finer things in life, like not-prison? Then it's time to get digging! For every 3 Salvagian gold coin sent to the city of Dumpopolis, you will be given one credit towards your freedom. Collect X credits, and your bounty will be removed!"
+<br>With this news, outlaws have started entering the desert in droves, hoping to clear their names and find their fortune. For the city, this morally questionable plan is creating plenty of revenue to fund their police department. It doesn't hurt that the outlaws are all killing each other off over the treasure, either. 
+<br>As for the outlaws, this seems like nothing but a golden opportunity. They set out into the dangerous wasteland with one goal in mind:
+<br>Digin, or die trying.
+
+<h2>
 How You Can Contribute:
 </h2>
 I decided to make this game open-source where anyone can contribute. 
