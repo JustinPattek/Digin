@@ -193,3 +193,10 @@ August 29, 2013
 <br>(This is because some characters don't benefit from using their abilities only on their turn)
 <li>Fix: Tino fixed up the Ideas section and added balancing section/ Map ideas
 </ul>
+<h3>
+September 3, 2013
+</h3>
+<ul>
+<li>Artifacts no longer exist
+<li>Added Full Card list
+</ul>

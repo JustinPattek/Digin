@@ -25,10 +25,8 @@ Card Types:
 
 <h3>Gold Cards</h3> - Gold cards are the basic monetary points in the game and can be equipped. (They do nothing when equipped)
 
-<h3>Supplies Cards</h3> - Supplies cards are any card that aren't gold or artifact. (They have no point values) 
+<h3>Supplies Cards</h3> - Supplies cards are any card that aren't gold coins, victory cards or character cards. (They have no point values) 
 There is 3 types: Offensive, Defensive, and Support.
-
-<h3>Artifact Cards</h3> - Artifact cards count as both a gold and a supply card.
 
 <h3>Ability Cards</h3> - Ability cards are special cards that activate your Character Card's ability whenever you discard them from your hand. (No matter whose turn it is.)
 
@@ -50,6 +48,6 @@ Supplies Card Types:
 <h2>
 Card Priority:
 </h2>
-TBD
+Offensive Cards take priority over Defensive cards
 
 
