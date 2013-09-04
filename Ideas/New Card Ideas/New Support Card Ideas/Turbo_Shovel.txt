@@ -1,6 +1,8 @@
+*This card will be far rarer than the normal shovel
+
+
 Turbo Shovel
 
-not sure about the pick-up ability
+Pick-up Ability: Your next roll is rocket-powered and gets +3 added.
 
-equip ability: like a shovel, but if you pick up a coin and it doesn't break,
-you roll again
+equip ability: Can shovel any one card in your vicinity. Normal shovel rules apply.
